@@ -20,19 +20,19 @@ public class Encapsulation {
     }
 
     public void setName(String name) {
-        this.Name = Name;
+        this.Name = name;
     }
 
     public void setAddress(String address) {
-        this.Address = Address;
+        this.Address = address;
     }
 
     public void setContact(int contact) {
-        this.Contact = Contact;
+        this.Contact = contact;
     }
 
     public void setEmail(String email) {
-        this.Email = Email;
+        this.Email = email;
     }
 
     public String getName() {
