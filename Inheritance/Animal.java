@@ -8,7 +8,7 @@ public class Animal {
     private String generic = "Sciencetific generics";
     
     void eat(){
-        System.out.println("eationg every thing ");
+        System.out.println("eating every thing ");
 
     }
 
